@@ -78,7 +78,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/ayush-eye/ayush-eye/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ayush-eye/ayush-eye/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
