@@ -69,7 +69,7 @@
 ## 🏆 Achievements & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-eye&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayush-eye&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
