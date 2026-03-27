@@ -42,25 +42,31 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&theme=dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&hide_border=true" />
+  </picture>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush-eye&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayush-eye&hide_border=true&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-eye&bg_color=ffffff&color=3b82f6&line=2563eb&point=000000&area=true&hide_border=true" />
-
-</div>
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=ayush-eye&show_icons=true&theme=dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=ayush-eye&show_icons=true&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ayush-eye&show_icons=true&hide_border=true" />
+  </picture>
+</p>
 
 ---
 
