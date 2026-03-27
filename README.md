@@ -41,10 +41,9 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayush-eye&theme=tokyonight&hide_border=true" />
-  <img src="https://ghchart.rshah.org/ayush-eye" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-eye&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-eye&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
